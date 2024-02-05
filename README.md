@@ -1,5 +1,5 @@
 # RELEASE på Nitro-Promobot
-Source code til bb-n1tbot som laver promo links til 1m nitro.
+Source code til bb-n1tbot som laver promo links til 1-month nitro.
 
 Bliver først released ved 20 stars...
 
